@@ -158,21 +158,6 @@ Microsoft currently groups the AI-200 exam into four major areas:
 
 ---
 
-## My Progress Tracker
-
-| Learning Path | Status | Notes / Lab |
-|---|---|---|
-| Implement container application hosting on Azure | ⬜ Not started | |
-| Deploy and manage apps on Azure Container Apps | ⬜ Not started | |
-| Deploy and monitor applications on AKS | ⬜ Not started | |
-| Develop AI solutions with Azure Cosmos DB for NoSQL | ⬜ Not started | |
-| Develop AI solutions with Azure Database for PostgreSQL | ⬜ Not started | |
-| Enhance AI solutions with Azure Managed Redis | ⬜ Not started | |
-| Integrate backend services for AI solutions | ⬜ Not started | |
-| Manage application secrets and configuration | ⬜ Not started | |
-| Observe and troubleshoot apps on Azure | ⬜ Not started | |
-
-**Legend:** ⬜ Not started · 🟡 In progress · ✅ Complete
 
 ## Suggested Repository Structure
 
