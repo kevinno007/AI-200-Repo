@@ -1,0 +1,3 @@
+AI-200 Course URL: Azure AI Cloud Developer Associate
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/?practice-assessment-type=certification
+
